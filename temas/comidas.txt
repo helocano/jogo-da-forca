@@ -1,168 +1,157 @@
-feijoada
-moqueca
-acarajé
-vatapá
-caruru
-pamonha
-canjica
-cuscuz
-coxinha
-pastel
-empada
-esfiha
-brigadeiro
-beijinho
-quindim
-bolo de cenoura
-bolo de chocolate
-farofa
-arroz carreteiro
-tutu de feijão
-dobradinha
-churrasco
-picanha
-linguiça
-frango assado
-caldo verde
-mandioca frita
-tapioca
-pão de queijo
-pizza
-hambúrguer
-cachorro quente
-lasanha
-espaguete
-macarronada
-ravioli
-yakisoba
-sushi
-temaki
-sashimi
-ramen
-paella
-taco
-burrito
-nachos
-quritto
-curry
-risoto
-gnocchi
-quiche
-croissant
-baguete
-fondue
-shawarma
-falafel
-hummus
-kebab
-dumpling
-pho
-sorvete
-gelato
-picolé
-churros
-panqueca doce
-waffle
-donut
-cupcake
-cheesecake
-brownie
-torta de limão
-torta de maçã
-pavê
-mousse
-suspiro
-algodão doce
-bala
-caramelo
-trufa
-pé de moleque
-rapadura
-doce de leite
-gelatina
-pudim
-maçã
-banana
-laranja
-abacaxi
-manga
-melancia
-melão
-uva
-morango
-kiwi
-pera
-pêssego
-ameixa
-cereja
-jabuticaba
-goiaba
-maracujá
-acerola
-caju
-graviola
-pitaya
-cupuaçu
-açaí
-coco
-figo
-romã
-tangerina
-damasco
-suco
-refrigerante
-café
-chá
-leite
-achocolatado
-vitamina
-smoothie
-milkshake
-água de coco
-cerveja
-vinho
-coquetel
-capuccino
-espresso
-chá gelado
-kombucha
-pipoca
-batata frita
-batata chips
-polenta
-omelete
-ovo mexido
-ovo cozido
-panqueca
-crepe
-torrada
-sanduíche
-wrap
-salada
-salada de frutas
-ensopado
-sopa
-caldo
-lanche
-petisco
-aperitivo
-bolo arco-íris
-hambúrguer duplo
-pizza de chocolate
-sushi doce
-pão recheado
-lasanha vegetariana
-taco gigante
-sorvete frito
-churros recheado
-milkshake de oreo
-brigadeiro gourmet
-pudim de pão
-bolo de pote
-espetinho
-frango empanado
-nuggets
-batata rústica
-purê de batata
-arroz à grega
-macarrão instantâneo
+abóbora
+abobrinha
+abobrinha recheada
+acelga
+agrião
+alface
+alho
+alho-poró
+alcachofra
+aspargo
+berinjela
+beterraba
+brócolis
+cebola
+cenoura
+chuchu
+couve
+couve-flor
+ervilha
+espinafre
+inhame
+jiló
+mandioquinha
+milho
+nabo
+pepino
+pimenta
+pimentão
+quiabo
+repolho
+rúcula
+salsão
+tomate
+vagem
+amendoim
+castanha
+castanha-do-pará
+castanha-de-caju
+nozes
+avelã
+pistache
+feijão
+feijão preto
+feijão carioca
+lentilha
+grão-de-bico
+soja
+arroz integral
+arroz branco
+arroz doce
+arroz de forno
+baião de dois
+virado à paulista
+galinhada
+feijão tropeiro
+bobó de camarão
+escondidinho
+vaca atolada
+sarapatel
+carne de sol
+paçoca
+carne moída
+bife
+costela
+cupim
+alcatra
+contra-filé
+filé mignon
+pernil
+lombo
+costelinha
+joelho de porco
+salmão
+atum
+tilápia
+bacalhau
+sardinha
+camarão
+lagosta
+polvo
+lula
+mexilhão
+queijo
+mussarela
+parmesão
+provolone
+gorgonzola
+ricota
+requeijão
+catupiry
+iogurte
+pão francês
+pão integral
+pão de forma
+pão sírio
+pão australiano
+brioche
+cereal
+granola
+aveia
+mingau
+iogurte com frutas
+cookie
+biscoito
+bolacha recheada
+sonho
+bombom
+palha italiana
+manjar
+cocada
+curau
+maçã do amor
+canudo recheado
+pastel de nata
+caqui
+framboesa
+amora
+mirtilo
+lichia
+carambola
+jaca
+nectarina
+mexerica
+umbu
+seriguela
+physalis
+lasanha de frango
+lasanha à bolonhesa
+pizza de calabresa
+pizza portuguesa
+pizza quatro queijos
+pizza marguerita
+pizza de frango com catupiry
+strogonoff
+estrogonofe de frango
+estrogonofe de carne
+parmegiana
+fricassê
+nhoque recheado
+mac and cheese
+torresmo
+bolinho de bacalhau
+bolinho de queijo
+croquete
+kibe
+pastel de feira
+amendoim japonês
+nacho com queijo
+suco de laranja
+suco de uva
+suco de maracujá
+limonada
+guaraná
+energético
+mate
+chá mate
+chocolate quente
