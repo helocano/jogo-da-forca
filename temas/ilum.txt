@@ -19,108 +19,75 @@ Nelson Studart
 Olga Rusinova
 Romildo
 Valéria Spolon Marangoni
-Abraham Contreras
-Álex Araújo
-Ana Luiza
-Angel Andrade
-Ângelo Zampieri
-Angélica Lopes
-Arthur Cunha
-Beatriz Pessoa
-Bruna Fujihashi
-Bruno Bini
-Caio Marino
-Camila Pangrassio
-Carlos Gabriel
-Filipi Martins
-Gabriel Paiva
-Gabriel Guerra
-Giovanna Avellar
-Giovanni Moreira
-Gustavo Colas
-Gustavo Placido
-Heloísa Cano
-Heloísa Sampaio
-Isabela Leme
-Jéssika Nóbrega
-João Gabriel
-Leonardo Gomes
-Letícia Campos
-Luis Navarro
-Luna Silva
-Maria Clara
-Maria Vitória
-Mariana Bueno
-Matheus Mendes
-Murilo Constantinov
-Ricardo Carvalho
-Pedro Lucas
-Vinícius Marianno
-Vitor Pedrique
-Fica a provocação
-Átomos Atômicos
-O ÁÁÁÁÁÁÁTOMO DE HIDROGÊNIO É ESTÁVEL
-trivial
-interações
-bota no bolso
-tira do bolso
-olha que legal
-desveja que horror
-sh sh show
-não sh sh show
-rigor
-reclama com o python, não reclama comigo
-manda lá no teams, beleza?
-ratos, ratos GIGANTES
-REFLITA
-é fuzzy
-eba, é torresmo a puruca
-juliana trifosfato
-absolute mineiro
-LUCAS CANDINHO
-perigo não faz barulho
-after
-gato? qual dos dois?
-dopamininhas
-tutti
-o araxá original
-messi de araxá
-não, veja bem, não é isso
-matimatica
-não hiperfoquem
-botão dramático
-SEXTOOOOOOOU
-diário de bordo
-dialoguem com a IA
-ensinagem
-dialógica
-que audácia audaciosa!
-DIGAAÍ @LEH.CAMPS
-Sofia Mingula
-Menzinho
-Bibi
-Defante
-pipetas gilson
-arquivo .zip
-soluço enfático
-átomos dramáticos
-catharina
-júnior
-joão
-luiza
-monitoria da catharina
-jogar cloreto de cobalto na pia
-as estrelas de nêutrons são como os patinadores no gelo
-cousin's
-sir little peter
-dalben
-le velho
-le novo
-leleco + dudu
-um minuto de silêncio para o pauling
-acabamos de enterrar o átomo de bohr
-polenguinho
-nori
-sou um orbital
-olha, merda!
-porque ela é cega, então ela obviamente não vê
+Catharina
+Luiza
+João
+Júnior
+Funções de Variáveis Reais
+Integrais de Várias Variáveis
+Lógica Computacional
+Álgebra Linear
+Dinâmica
+Fundamentos da Matéria
+Termodinâmica
+Ciência Moderna
+Energia em Sistemas Vivos I
+Forma, Função e Informação
+Imersão ao CNPEM
+Prática em Ciências de Dados
+Laboratório de Humanidades I
+Equações Diferenciais
+Probabilidade e Estatística
+Cálculo Vetorial
+Fundamentos da Quântica
+Orgânica
+Termodinâmica Avançada
+Ciência na Segunda Modernidade
+Estrutura e Função de Proteínas
+Célula e suas Interações I
+Iniciação à Pesquisa I
+Laboratório Avançado I
+Aprendizado de Máquina
+Laboratório de Humanidades II
+Integração Curricular da Extensão I
+Análise numérica
+Séries e transformadoras
+Teoria Quântica
+Eletromagnetismo
+Sistemas Eletroquímicos e cinética química
+Antinomia Cultura-Natureza
+Decodificação da informação genética
+Tempo em sistemas vivos I
+Iniciação à Pesquisa II
+Laboratório avançado II
+Redes Neurais e Algoritmos Genéticos
+Processo e modelos de inovação
+Integração curriculaar da extensão II
+Espaços Normados
+Matéria Condensada
+Fundamentos Estatísticos da termodinâmica
+teoria quântica de átomos e moléculas
+A Grande Aceleração no Antropoceno
+Ecologia Molecular e Processos Ambientais
+A Célula e Suas Interações II
+Iniciação à Pesquisa III
+Laboratório Avançado III
+Modelagem de Empreendimentos Inovadores
+Laboratório de Humanidades III
+Processamento de Linguagem Natural e de Imagens
+Integração Curricular da Extensão III
+Biomatemática
+Matéria Condensada Mole
+Espectroscopia
+Cultura Digital
+Energia em Sistemas Vivos II
+Tempo em Sistemas Vivos II
+Iniciação à Pesquisa IV
+Laboratório Avançado IV
+Planejamento do Projeto Final
+Simulação Atomística
+Integração Curricular da Extensão IV
+Projeto Final
+Tópicos Avançados em Ciências I
+Tópicos Avançados em Ciências II
+Diálogos ILUM
